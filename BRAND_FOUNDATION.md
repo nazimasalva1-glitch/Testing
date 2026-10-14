@@ -10,8 +10,8 @@
 
 | Item | Value |
 |---|---|
-| Brand name | `[BRAND NAME]` |
-| Tagline | `[TAGLINE]` (e.g. "Certified stones. Real energy. Your own business.") |
+| Brand name | Nazima Agate (see Nazima Agate Design System v1.0) |
+| Tagline | Stones from the Source. |
 | Category | Natural gemstones, crystals, jewellery, decor + partner/reseller platform |
 | Market | India first (INR, COD, UPI, Hinglish), export later |
 | Three pillars | 1) Verified Authenticity 2) Guided Discovery (AI gemologist) 3) Earn With Us (partner network) |
